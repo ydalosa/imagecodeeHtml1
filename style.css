@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+ul{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+li{
+    align-self: left;
+    font-size: 5rem;
+     list-style: none;
+    padding: 1px;  
+}
+#A{
+    display: flex;
+}
+#1, #2{
+display: block;
+}
